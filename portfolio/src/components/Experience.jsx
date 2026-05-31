@@ -2,14 +2,14 @@ const Experience = () => {
   const experiences = [
     {
       role: 'Gen AI Architect & Consultant',
-      company: 'Independent Consulting',
+      company: 'Cognizant Consulting',
       period: '2022 - Present',
       description: 'Leading generative AI strategy and implementation for enterprises, building custom LLM applications, and providing e-learning consulting services.',
       achievements: [
         'Architected enterprise RAG systems serving 100k+ daily queries with 95% accuracy',
         'Built custom fine-tuned LLMs for domain-specific applications reducing costs by 60%',
         'Designed AI-powered adaptive learning platform serving 50k+ students globally',
-        'Led AI transformation workshops for 10+ Fortune 500 companies',
+        'Led AI transformation workshops for 10+ Fortune 500 companies in 2025',
       ],
       type: 'work',
     },

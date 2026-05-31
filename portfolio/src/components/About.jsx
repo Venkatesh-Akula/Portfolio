@@ -32,7 +32,7 @@ const About = () => {
           {/* Content Side */}
           <div className="flex-1">
             <h3 className="text-2xl sm:text-3xl font-bold text-white mb-6">
-              Gen AI Architect & E-Learning Consultant with 12+ years of expertise
+              Gen AI Architect & E-Learning Consultant with 12 years of expertise
             </h3>
             <p className="text-gray-custom leading-relaxed mb-6">
               I'm a seasoned Gen AI Architect and Machine Learning Engineer with 12+ years of experience 
